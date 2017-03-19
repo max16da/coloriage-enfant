@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/style.css" />
+      <script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+
+</head>
+
+    <body>
+        <h1>Amuse-toi à colorier des dessins !!!</h1>
+        <ol>
+          <li>Choisi ton dessin en cliquant dessus</li>
+          <li>Sélectionne une couleur</li>
+          <li>Attribue ta couleur à un des éléments du dessin</li>
+          <li>Nomme et télécharge ton dessin</li>
+        </ol>
+        <ul id="choice">
+        </ul>
+        <!--<input type="submit" id="ok" value="ok" />-->
+        <section id="atelier">
+          <section id="gauche">
+              <section id="couleur">
+                </section>
+              <section id="svg"></section>
+          </section>
+
+          <section id="droit">
+            <button id="reset">Reset</button>
+            <p>Nomme et télécharge ton dessin</p>
+            <form method="post">
+            <input id="filename" name="filename" type="text" />
+            </form>
+            <!--<button id="register">Enregistrer</button>-->
+            <button id="download">Télécharger</button>
+            <section id="test"></section>
+            <p id="auteur"></p>
+            </section>
+
+
+      </section>
+      <script src="js/script.js"></script>
+</body>
+</html>
