@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Courgette';
+    src:url('../fonts/Courgette-Regular.ttf');
+}
+
+html,body {
+    background:#EEF2F6;
+    background:url('../images/fond3.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    font-size:16px;
+    font-family: 'Courgette', cursive;
+    color:#75A0C6;
+    width:100%;
+    height:100%;
+    margin:0;
+  }
+
+h1 {
+    text-align:center;
+    margin-top:5px;
+    width:100%;
+  }
+
+ol {
+    width: 30%;
+    float: left;
+  }
+  
+#choice{margin:5px auto; float:left;}
+
+#choice li {
+    display:inline-block;
+    border:1px solid #75A0C6;
+    background:#fff;
+    width:90px;
+    height:90px;
+    margin-right:5px;
+    padding:2px;
+}
+
+#choice img {
+    width:100%;
+    height:100%;
+    display:block;
+    margin:auto;
+}
+
+#atelier{
+    float:left;
+    width:100%;
+    border-top: 1px solid rgb(221, 221, 221);
+    padding:0;
+}
+#gauche {
+    float:left;
+    padding-right:20px;
+    width:75%;
+}
+#gauche>section{
+    display:inline-block;
+    vertical-align: top;
+}
+#couleur {
+    width:40%;
+    padding:0px 20px;
+    border-radius:4px;
+}
+.stroke {stroke:red !important;}
+
+#svg{
+    padding:10px 50px;
+    width:32%;
+}
+
+#droit{
+    display:none;
+    box-shadow: 0 0 2px 2px rgba(117, 160, 198,.3);
+    background:#f7F7F7;
+    float:right;
+    width:20%;
+    margin-top:10px;
+}
+#droit>* {margin:10px;}
+
+#droit input {width:95%;}
+
+#download, #reset, #test{display:none;}
+#download, #reset{
+    background: #A4C4E1;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 1.2em;
+    font-family: 'Courgette';
+}
+#download{margin-top:10px;}
+
+#download:hover, #reset:hover{
+    background: #75A0C6;
+}
+
+@media (max-width: 600px) {
+    html,body {background:#EEF2F6; width:98%; margin:auto;}
+    h1,#choice, ol, #atelier, #gauche, #couleur, #svg{ width:100%; padding:0;}
+    #droit { width:100%; float:left;}
+}

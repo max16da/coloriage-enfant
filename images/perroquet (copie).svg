@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="perroquet (copie).svg"
+   inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+   inkscape:export-xdpi="105"
+   inkscape:export-ydpi="105">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3031"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.62567054"
+     inkscape:cx="85.640981"
+     inkscape:cy="464.47759"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1570.5917,641.75224)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1848.2653,-375.48305 12.6519,3.42907 c 0,0 22.7252,79.42732 56.4516,93.77002 0,0 31.9367,55.17312 44.9915,56.71062 0,0 39.0337,67.4579 41.6869,67.51016 1.5354,-0.2508 3.1331,-0.8312 3.7938,-4.25346 2.31,11.16315 33.3317,82.289603 61.4991,115.666416 0,0 2.0124,-6.172704 0.9104,-10.472863 3.8461,4.51035 12.2415,6.335891 12.2415,6.335891 1.2844,-16.057841 -40.5575,-120.397684 -40.5575,-120.397684 l 7.863,4.39465 c -126.4102,-123.13136 -102.4491,-172.11262 -135.9388,-247.75257 -10.191,-23.01707 36.3699,-42.90127 -6.8393,-75.18688 -50.2012,-47.94211 -60.5874,-79.64562 -157.7541,-104.55766 -25.3638,-17.3349 -39.9261,-36.5063 -60.727,-44.10519 -36.3696,-13.28633 -68.0507,-5.3575 -68.8043,17.77265 33.2046,21.14756 46.1622,43.16588 43.9896,89.63804 -0.1225,3.92832 -0.017,9.80434 1.8504,13.70554 1.7784,3.87739 19.0493,14.97169 19.0493,14.97169 2.5498,1.72848 4.0102,-8.53321 4.0102,-8.53321 0,0 3.9531,25.78189 9.1509,30.96324 1.7501,0.85154 4.3718,-2.21047 4.3718,-2.21047 18.8323,57.82332 42.064,41.49664 49.1215,60.59804 46.8806,1.48996 83.7821,32.87648 96.9876,42.00396 z"
+       id="corps"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsccsccccccccc"
+       inkscape:label="#path3007" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1589.8287,-445.65912 c -19.8827,4.9169 -18.2805,25.07912 -18.2805,25.07912 23.6613,11.28593 43.5031,18.84071 66.336,18.56199 33.7738,-0.41229 57.7897,10.45579 72.541,7.88845 13.6049,-2.93781 78.093,0.84847 111.2909,30.45727 l 19.9135,-16.98088 c -37.8745,-29.20256 -62.7432,-39.43266 -96.9256,-36.92803 -52.3878,3.8386 -81.228,-8.71818 -82.6604,-8.80019 -30.564,4.67208 -52.2486,-10.92188 -72.2149,-19.27773 z"
+       id="branche"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscccscc"
+       inkscape:label="#path3804"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1745.9044,-425.58459 c 0,0 -30.894,1.46253 -34.9108,14.65452 -1.5977,2.36421 2.6388,21.76821 8.0737,22.35786 5.3042,-3.27364 -8.6865,-17.47519 6.9447,-23.54437 2.2737,0.57683 -8.1945,16.1476 6.0906,23.24949 2.6918,-0.15401 -9.8181,-18.38559 13.9947,-28.56796 12.7737,1.01278 -0.1929,-8.14954 -0.1929,-8.14954 z"
+       id="patte1"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="#path3811"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1756.8657,-419.35753 c -1.3032,0.58371 -10.175,1.37738 -15.3057,16.85143 -2.187,15.75141 6.4458,19.23629 8.0056,19.24263 2.0349,-0.59365 -6.9523,-21.97612 9.9546,-30.19854 2.0448,0.13772 -11.2941,7.8698 2.9483,30.9889 2.6629,0.9299 -1.3613,-24.93726 9.4287,-28.259 4.6923,-3.10061 12.202,-3.2819 11.863,-5.87224 -0.8397,-10.52382 -16.3782,-6.97235 -26.8945,-2.75318 z"
+       id="patte2"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:label="#path3813"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1904.374,-375.56236 c 13.856,15.8833 26.9964,92.67905 53.1498,113.50656 10.2216,9.25852 61.1364,97.23733 88.8479,98.28142 -40.49,-79.57708 -97.1265,-203.53201 -113.9772,-204.35133 z"
+       id="plume8"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="#path3802"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1858.7503,-390.58815 c 10.101,18.0408 37.4553,58.15145 73.1973,84.91128 -7.4139,-40.6315 -27.0985,-80.18689 -38.3169,-86.4994 -7.3132,6.24199 -34.8804,1.58812 -34.8804,1.58812 z"
+       id="plume7"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path2994"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1847.376,-416.5092 c 1.0914,21.32451 24.6118,39.04693 36.6237,43.86353 10.8493,3.7567 9.5527,-22.1874 9.5527,-22.1874 z"
+       id="plume6"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path2990"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1931.737,-377.4556 c 0.4344,14.69289 6.3594,24.39343 98.8946,64.78684 5.1274,-5.69442 -27.8264,-41.31695 -27.8264,-41.31695 z"
+       id="plume4"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path3815"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1892.9913,-394.70523 c 10.8501,28.41036 18.6304,30.66633 57.1437,72.16859 8.151,-7.80207 -12.0653,-40.22311 -16.3028,-56.09399 z"
+       id="plume5"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path2992"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1840.6444,-546.60761 c -28.8,-22.79638 -107.1474,2.70422 -65.6581,69.33152 41.2533,73.64247 229.7752,123.82674 229.7752,123.82674 -60.3753,-117.55125 -141.2805,-174.47669 -164.1171,-193.15826 z"
+       id="plume3"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path2986"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1645.1626,-562.30041 c 0,0 -2.4273,-52.50098 0.083,-58.69133 11.4853,-3.96619 41.7591,3.40601 46.8727,16.03502 12.618,32.56868 -7.6822,68.29146 -15.2917,71.01774 z"
+       id="autour_oeil"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="#path2998"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1616.67,-617.6429 c -36.6303,53.67281 2.2962,84.83628 10.3021,87.88946 -5.4693,-30.33818 18.0773,-23.01093 19.4219,-31.77436 14.58,-40.21544 -21.7334,-62.78287 -29.724,-56.1151 z"
+       id="bec1"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path2996"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       transform="matrix(-7.6222046,-2.0658246,-2.2253922,8.2109564,5402.5411,-2451.2873)"
+       d="m 395.73384,324.19867 a 1.1047846,1.1047846 0 1 1 -2.20957,0 1.1047846,1.1047846 0 1 1 2.20957,0 z"
+       sodipodi:ry="1.1047846"
+       sodipodi:rx="1.1047846"
+       sodipodi:cy="324.19867"
+       sodipodi:cx="394.62906"
+       id="oeil"
+       class="section"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff9955;stroke-width:0.11095922"
+       sodipodi:type="arc"
+       inkscape:label="#path3776"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ff7f2a;fill-opacity:1;stroke:#ff9955"
+       d="m 1675.6486,-610.25584 c -3.1632,-0.85734 -6.4399,0.94583 -7.2774,4.03472 -0.837,3.08889 1.0809,6.30003 4.2441,7.15734 3.1632,0.85736 6.3851,-0.96073 7.2225,-4.0496 0.8372,-3.08887 -1.0258,-6.28513 -4.1892,-7.14246 z m 1.3058,3.00413 c 1.0423,0.28247 1.6338,1.36104 1.345,2.42579 -0.2884,1.06471 -1.3438,1.69708 -2.3857,1.41464 -1.0422,-0.2825 -1.6883,-1.37596 -1.4,-2.44066 0.2889,-1.06474 1.3985,-1.68225 2.4407,-1.39977 z"
+       id="oeil_noir"
+       class="section"
+       inkscape:connector-curvature="0"
+       inkscape:label="#path3778"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       sodipodi:nodetypes="cccscc"
+       inkscape:connector-curvature="0"
+       id="plume2"
+       class="section"
+       d="m 1843.1025,-547.35642 c -46.7024,-19.73661 -109.8569,26.7358 -58.9191,83.69295 13.2532,12.56205 9.906,-12.03075 51.6063,9.96376 26.6349,12.7954 42.6673,4.62923 47.9761,2.37553 6.8829,-2.92205 48.9507,30.37726 51.3573,20.45665 4.782,-18.60649 3.2202,-41.53958 -92.0206,-116.48889 z"
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:label="#path3800"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1840.3834,-550.38363 c -35.7228,-20.3003 -108.5347,10.9866 -67.4328,67.36003 6.3198,8.18438 0.9416,-36.45441 42.6419,-14.45989 26.635,12.7954 39.0549,4.89935 44.3632,2.64561 6.8831,-2.922 14.3069,12.24315 27.5351,2.34064 8.0938,-8.54786 -24.2711,-39.2048 -47.1074,-57.88639 z"
+       id="plume1"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscc"
+       inkscape:label="#path2986-3"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#ffffff;stroke:#ff9955;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1647.2494,-560.83112 c -4.1583,18.60101 -16.4478,33.52595 -16.4478,33.52595 0,0 33.2826,4.30929 46.577,-5.63215 0,0 -0.7052,-20.21346 -30.1292,-27.8938 z"
+       id="bec2"
+       class="section"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:label="#path3808"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff9955;stroke-width:1.09226273;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="coupe_branche"
+       class="section"
+       sodipodi:cx="576.01831"
+       sodipodi:cy="415.95706"
+       sodipodi:rx="2.3045421"
+       sodipodi:ry="2.3045421"
+       d="m 578.32285,415.95706 a 2.3045421,2.3045421 0 1 1 -4.60908,0 2.3045421,2.3045421 0 1 1 4.60908,0 z"
+       transform="matrix(5.5274594,0.68338541,-1.4315995,5.2821256,-755.83841,-2962.3781)"
+       inkscape:label="#path3806"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke:#ff9955;stroke-width:2"
+       d="m 1835.8183,-384.63011 c -0.069,-0.0359 -0.108,-0.0253 -0.124,0.0253 -0.1367,0.40715 -1.3215,12.92124 -1.2359,13.03385 0.085,0.1128 3.3641,-9.68556 3.414,-10.20558 0.043,-0.45489 -1.5691,-2.60193 -2.0538,-2.85341 z m -12.517,4.67272 c -0.1592,-0.15938 -2.0037,2.7808 -1.8785,3.02757 0.1254,0.24685 7.224,6.25703 7.2579,6.16963 0.042,-0.0852 -5.0784,-9.46416 -5.3794,-9.1972 z m -2.6975,5.397 c -0.465,-0.14718 -1.1686,2.03611 -0.7332,2.2747 0.4341,0.2385 11.576,3.76709 11.6067,3.67583 0.027,-0.0928 -10.4077,-5.80314 -10.8723,-5.95032 z"
+       id="path3817"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="/home/max/www/baleineSVG/version_plus/images/parrot.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+  </g>
+</svg>
